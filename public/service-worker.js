@@ -1,14 +1,15 @@
 const cacheUrls = [
   "/",
   "/db.js",
+  "index.html",
   "/index.js",
-  "/manifest.json",
+  "/manifest.webmanifest",
   "/styles.css",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png"
 ];
 
-var CACHE_NAME = "site-cache-v1";
+const CACHE_NAME = "site-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
 self.addEventListener("activate", function(event) {

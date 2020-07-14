@@ -4,7 +4,7 @@ https://rocky-scrubland-50374.herokuapp.com/
 ## Description
 Spending too much money and want a better way to stay on budget? Use Budget Tracker!
 
-This app keeps track of all deposits and withdrawals you make. Give them a name to help you remember what they were for, and total $ amount will automatically update. This app works online or offline for smooth transition when you don't have access to the internet.
+This app keeps track of all deposits and withdrawals you make. Give them a name to help you remember what they were for, and total $ amount will automatically update. This app works online or offline for smooth transition when you don't have access to the internet using a Service Worker and Cache API.
 ## Table of Contents
 * [Installation](#installation)
 
